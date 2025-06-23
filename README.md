@@ -16,8 +16,8 @@ This repository contains a backend and frontend application for product manageme
 1. **Clone the repository**
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone --recurse-submodules https://github.com/Oumaymaazmi/crud-task-devstack.git
+cd crud-task-devstack
 
 ```
 
